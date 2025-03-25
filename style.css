@@ -1,0 +1,74 @@
+p{
+    text-align: center;
+}
+.ejercicio_1{
+    margin: 0 auto;
+    width: 200px; 
+    height: 200px; 
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.ejercicio_2{
+    background-color: #cbbfbd;
+    margin: 0 auto;
+    width: 250px;
+    height: 250px;
+    box-shadow: 4px 4px 8px #000;
+}
+.caja_3-1{
+    margin: 0 auto;
+    background-color: #e62d0e;
+    width: 80px;
+    height: 80px;
+}
+.caja_3-2{
+    margin: 0 auto;
+    background-color: #5e8c1c;
+    width: 80px;
+    height: 80px;
+}
+.caja_3-3{
+    margin: 0 auto;
+    background-color: #163ad0;
+    width: 80px;
+    height: 80px;
+}
+.ejercicio_4{
+    margin: 0 auto;
+    background-color:hsl(200, 25%, 50%);
+    width: 80px;
+    height: 80px;
+}
+.caja_5-1{
+    margin: 0 auto;
+    background-color:rgb(255, 0 , 100);
+    width: 80px;
+    height: 80px;
+}
+.caja_5-2{
+    margin: 0 auto;
+    background-color:rgba(255, 0 , 100, 0.5);
+    width: 80px;
+    height: 80px;
+}
+.ejercicio_6y7{
+    margin: 0 auto;
+    width: 80px;
+    height: 80px;
+    background-image: url(img/landscape-7438429_1280.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.ejercicio_8{
+    margin: 0 auto;
+    width: 900px;
+    height: 500px;
+    background-image: url(img/waves-2211925_1280.jpg);
+    background-attachment: fixed;
+}
+.ejercicio_9{
+    margin: 0 auto;
+    width: 100px;
+    height: 80px;
+    background: linear-gradient(to right, blue, red, white);
+}
